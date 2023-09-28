@@ -1,7 +1,7 @@
 [
     {
         "Id" : "1 ( 10)",
-        "Date" :"02-06-2023",
+        "Date" :"02/06/2023",
         "Name" : "Indiana Jones and the Dial of Density",
         "Image" : "https://lumiere-a.akamaihd.net/v1/images/image_17ad972d.jpeg?region=0%2C0%2C540%2C810",
         "Message": "2023 2h 34m",
@@ -9,7 +9,7 @@
     },
     {
         "Id" : "2 ( 2)",
-        "Date" :"04-07-2023",
+        "Date" :"04/07/2023",
         "Name" : "No Hard Feelings",
         "Image" : "https://m.media-amazon.com/images/M/MV5BMjg3N2M3OWUtZGQ3NC00OGI1LTllZDUtMTdiYWQxMTk0YTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg",
         "Message": "2023 2h 43m",
@@ -17,7 +17,7 @@
     },
     {
         "Id" : "3 ( 2)",
-        "Date" :"16-04-2023",
+        "Date" :"16/04/2023",
         "Name" : "Asteroid City",
         "Image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvCz_GjlLeCYjb8dQ1H-FaYjdRDLI0uyG3dgQRZrME&s",
         "Message": "2023 1h 45m",
@@ -25,7 +25,7 @@
     },
     {
         "Id" : "4 ( 3)",
-        "Date" :"06-06-2023",
+        "Date" :"06/06/2023",
         "Name" : "The Flash",
         "Image" : "https://upload.wikimedia.org/wikipedia/en/4/4a/The_Flash_season_7.jpg",
         "Message": "2023 2h 24m",
