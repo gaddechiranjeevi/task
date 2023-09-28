@@ -1,0 +1,22 @@
+.movie, .card{
+  display: inline-block;
+  margin-left: 3px;
+  font-display:initial;
+}
+.card{
+  justify-content: flex-start;
+  border: 1px solid lightblue;
+  border-top: 0px;
+  width: 150px;
+  margin: 15px;
+}
+
+.date{
+  width: 140px;
+  border: 0px solid;
+  background-color: lightgray;
+  font-weight: bolder;
+  padding: 3px;
+  padding-right: 0%;
+  text-align: center;
+}
